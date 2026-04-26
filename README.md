@@ -1,15 +1,25 @@
-# My portfolio
+# Portfolio Template
+# Anu – Portfolio
 
-  Welcome to my personal portfolio! This is a collection of my projects, skills, and experiences in web development and programming.
+This is my personal portfolio website showcasing selected front-end projects and experiments.
 
-  Check it out live: [My Portfolio Website](http://still/working in it........)
-  
-  ## What's Inside
-- **About Me:** Learn more about my background and skills.
-- **Projects:** Explore the projects I've worked on, including descriptions and live demos.
-- **Contact Me:** Find out how to get in touch with me for collaboration or inquiries.
+## 🔗 Live Website
+[View Portfolio](https://your-username.github.io/)
 
-## Thank You
-Thank you for visiting my portfolio. Feel free to connect with me or leave feedback!
+## 💡 About
+I’m a front-end developer focused on building interactive and story-driven user experiences.  
+This portfolio highlights my work, including real-world projects and UI experiments.
 
+## 🛠️ Built With
+- HTML
+- CSS
+- JavaScript
 
+## 📂 Projects Included
+- Vaelly – Wing Activation Page (interactive event-based project)
+- Parallax Story Prototype (React-based experiment)
+- Personal Blog Website (responsive layout project)
+
+## 📬 Contact
+Feel free to reach out:  
+**33AnoodQQ@gmail.com**
