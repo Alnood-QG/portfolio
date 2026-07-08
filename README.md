@@ -4,7 +4,7 @@
 This is my personal portfolio website showcasing selected front-end projects and experiments.
 
 ## 🔗 Live Website
-[View Portfolio](https://your-username.github.io/)
+[View Portfolio](https://alnood-qg.github.io/portfolio/)
 
 ## 💡 About
 I’m a front-end developer focused on building interactive and story-driven user experiences.  
