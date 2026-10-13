@@ -1,25 +1,31 @@
-# Portfolio Template
-# Anu – Portfolio
+# AnuDev | Portfolio
 
-This is my personal portfolio website showcasing selected front-end projects and experiments.
+My personal portfolio showcasing a selection of web development projects, from interactive front-end experiences to backend functionality.
 
 ## 🔗 Live Website
+
 [View Portfolio](https://alnood-qg.github.io/portfolio/)
 
 ## 💡 About
-I’m a front-end developer focused on building interactive and story-driven user experiences.  
-This portfolio highlights my work, including real-world projects and UI experiments.
+
+I'm a web developer interested in building functional, interactive, and user-friendly websites.
+This portfolio brings together projects I've worked on using different technologies, including interactive web experiences, responsive layouts, and web applications.
 
 ## 🛠️ Built With
+
 - HTML
 - CSS
 - JavaScript
 
-## 📂 Projects Included
-- Vaelly – Wing Activation Page (interactive event-based project)
-- Parallax Story Prototype (React-based experiment)
-- Personal Blog Website (responsive layout project)
+## 📂 Projects
+
+- **Django Task App:** A task management application with user authentication, individual task lists, and permission-based access control.
+- **Vaelly – Wing Activation Page:** An interactive web page developed for a real-world event.
+- **Parallax Story Prototype:** A React-based experiment exploring motion and depth through parallax effects.
+- **Personal Blog Website:** A responsive blog interface focused on clean layouts and content presentation.
 
 ## 📬 Contact
-Feel free to reach out:  
-**33AnoodQQ@gmail.com**
+
+I'm open to job opportunities, internships, and training programs in web development.
+
+Feel free to reach out at **33AnoodQQ@gmail.com**.
